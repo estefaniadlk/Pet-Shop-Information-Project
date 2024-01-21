@@ -16,7 +16,7 @@ All details are systematically stored in a text file (.txt).
 
 Empowers users to selectively remove stray animal registrations directly from the code.
 
-Search Stray Animal Records by Breed:
+*Search Stray Animal Records by Breed:*
 
 Facilitates efficient retrieval of stray animal records based on their breed.
 
